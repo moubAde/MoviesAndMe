@@ -30,8 +30,8 @@ Application d'apprentissage de react native issu du cours https://openclassrooms
 7. Toujours dans le projet MoviesAndMe, lancer la commande ``` $ react-native run-android ``` pour lancer l'application sur votre device, un émulateur ou un simulateur.
 
 ## Images
-![Screenshot](./Images/MoviesAndMe1.jpg)
-![Screenshot](./Images/MoviesAndMe2.jpg)
-![Screenshot](./Images/MoviesAndMe3.jpg)
-![Screenshot](./Images/MoviesAndMe4.jpg)
-![Screenshot](./Images/MoviesAndMe5.jpg) 
+![Screenshot](./Images/MoviesAndMe1.jpg){:class="img-responsive"}
+![Screenshot](./Images/MoviesAndMe2.jpg){:class="img-responsive"}
+![Screenshot](./Images/MoviesAndMe3.jpg){:class="img-responsive"}
+![Screenshot](./Images/MoviesAndMe4.jpg){:class="img-responsive"}
+![Screenshot](./Images/MoviesAndMe5.jpg){:class="img-responsive"}
